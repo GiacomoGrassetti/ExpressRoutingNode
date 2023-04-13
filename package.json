@@ -1,0 +1,22 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Simple Express Apllication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiacomoGrassetti/ExpressRoutingNode.git"
+  },
+  "author": "Giacomo Grassetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiacomoGrassetti/ExpressRoutingNode/issues"
+  },
+  "homepage": "https://github.com/GiacomoGrassetti/ExpressRoutingNode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
